@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+:root {
+    --color-black: rgb(0, 0, 0);
+    --color-white: rgb(255, 255, 255);
+    --color-green: rgb(49, 134, 22);
+    --color-lightest-green: rgb(247, 255, 249);
+    --color-gray: rgb(153, 153, 153);
+    --fw-800: 800;
+    --fw-800: 700;
+    --fw-800: 600;
+    --fw-800: 500;
+    --fw-800: 400;
+    --font-family: 'Poppins', sans-serif;
+}
